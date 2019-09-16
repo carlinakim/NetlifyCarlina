@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student of Masters of Data Science
 
 # Organizations/Affiliations
 organizations:
